@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vyapo.app",
+      "sha256_cert_fingerprints": [
+        "85:3B:84:82:DA:76:F5:A6:77:36:80:56:3A:5B:71:5C:52:52:A3:C0:C2:1D:52:68:F2:22:0F:5A:D0:2B:65:C4"
+      ]
+    }
+  }
+]
+ 
+ 
